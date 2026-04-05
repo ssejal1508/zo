@@ -1,0 +1,17 @@
+C:\Users\sejal\OneDrive\Documents\Desktop\zo\node_modules\zod\v3\types.cjs:57
+        throw new Error(`Can't use "invalid_type_error" or "required_error" in conjunction with custom error map.`);
+        ^
+
+Error: Can't use "invalid_type_error" or "required_error" in conjunction with custom error map.
+    at processCreateParams (C:\Users\sejal\OneDrive\Documents\Desktop\zo\node_modules\zod\v3\types.cjs:57:15)
+    at Object.createZodEnum (C:\Users\sejal\OneDrive\Documents\Desktop\zo\node_modules\zod\v3\types.cjs:3060:12)
+    at Object.<anonymous> (C:\Users\sejal\OneDrive\Documents\Desktop\zo\src\validators\record.validator.js:8:15)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1487:12)
+
+Node.js v22.17.1

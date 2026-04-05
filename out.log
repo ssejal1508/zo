@@ -1,0 +1,8 @@
+🟢 Connected to SQLite database successfully.
+
+🚀 Server is running on http://localhost:3000
+📚 API Documentation available at http://localhost:3000/api-docs
+🩺 Health check URL: http://localhost:3000/health
+
+
+🛑 Gracefully shutting down...
